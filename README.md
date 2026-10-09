@@ -76,7 +76,7 @@ Siga os passos abaixo para configurar o ambiente e reproduzir o projeto localmen
 
 ### 1. Clonar ou Baixar o Projeto
 ```bash
-git clone https://https://github.com/MarcoAntonioCh/Graos-Cia_IA.git
+git clone https://github.com/MarcoAntonioCh/Graos-Cia_IA.git
 cd Graos-Cia_IA
 ```
 
