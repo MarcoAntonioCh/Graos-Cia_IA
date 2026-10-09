@@ -14,8 +14,7 @@ Projeto prático desenvolvido para a disciplina de **Tópicos de Inteligência A
 
 A aplicação web interativa desenvolvida com **Streamlit** está hospedada e acessível publicamente através do link:
 
-> **Deploy no Streamlit Community Cloud:** `[INSERIR_LINK_PUBLICO_AQUI]`  
-> *(Exemplo: `https://graos-e-cia.streamlit.app`)*
+> **Deploy no Streamlit Community Cloud:** `https://graos-cia-ia.streamlit.app`  
 
 ---
 
